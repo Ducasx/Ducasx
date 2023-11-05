@@ -4,5 +4,5 @@ Currently Student at a sub-par highschool. Although I have other goals in life, 
 
 # Achievements
 
-- B2 in English
+- C1 in English
 - That's it. No really, I'm this useless
