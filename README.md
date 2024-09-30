@@ -1,8 +1,9 @@
 # About Myself
 
-Currently Student at a sub-par highschool. Although I have other goals in life, coding represents a skill I want to develop to increase my personal knowledge and productivity.
+I'm currently studying foreign languages, cultures and international relations at Ca' Foscari University in Venice. Coding doesn't mean much, but Git(Hub) has proven useful to store and organize notes.
 
 # Achievements
 
 - C1 in English
-- That's it. No really, I'm this useless
+- A2 in Czech
+- Nothing else. Much empty...
